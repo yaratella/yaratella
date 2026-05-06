@@ -13,7 +13,7 @@ I've got a bunch of pinned projects, but my favorite so far is the <a href="http
 So far I have around 6 public repos (more to come soon...)
 _________________________________________________________________________________________________
 
-### Tools & Tech
+### Tools & Tech 🌗
 
 - Java
 - PHP
@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________
 
-### A Bit About Me
+### A Bit About Me 🌕
 
 I was born in in Toulouse France, but originally Libyan. I'm currently pursing a Computer Science Degree with a minor in Information Technology and Sciences at Colorado State University!
 
